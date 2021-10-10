@@ -2,7 +2,7 @@
 
 ## 更新：已完成可重複數字版本！
 已解決重複數字問題，目前的版本是答案和猜都可以有重複的數字，會比較難！
-
+[Play 1A2B Guess Numbers on Replit](https://replit.com/@sb2828sb/1A2BCai-Shu-Zi-You-Xi?v=1)
 ---
 
 很久沒玩1A2B這種猜數字遊戲了，印象中小時候玩是電子辭典裡面的內建遊戲，好幾年沒玩了，最近突然想到拿來當作Python的練習。
